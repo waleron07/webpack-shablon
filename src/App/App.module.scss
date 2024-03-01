@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.container_count {
+  display: flex;
+  flex-direction: column;
+}
+
+.increment {
+  background-color: red;
+}
+
+.dincrement {
+  background-color: green;
+}
